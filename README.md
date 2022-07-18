@@ -71,10 +71,10 @@ pip install BeautifulSoup
 ```
 #### JALANKAN SKRIP
 ```python
-rm -rf Scatterz
-git clone https://github.com/Scatterz/Scatterz
+rm -rf ZMBF
+git clone https://github.com/ChangJr7/ZMBF
 ls
-cd Scatterz
+cd ZMBF
 git pull
 python sun.py
 python run.py
